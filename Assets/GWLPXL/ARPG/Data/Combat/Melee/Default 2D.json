@@ -1,0 +1,17 @@
+{
+    "config": {
+        "instanceID": 40440
+    },
+    "id": {
+        "Name": "Default 2D",
+        "ID": 1,
+        "Instance": {
+            "instanceID": 40306
+        }
+    },
+    "MeleeVars": {
+        "descriptiveName": "Default",
+        "description": "Default",
+        "friendlyFire": false
+    }
+}

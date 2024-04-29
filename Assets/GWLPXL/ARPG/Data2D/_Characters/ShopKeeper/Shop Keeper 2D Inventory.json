@@ -1,0 +1,31 @@
+{
+    "config": {
+        "instanceID": 40416
+    },
+    "EquipEvent": {
+        "instanceID": 0
+    },
+    "UnEquipEvent": {
+        "instanceID": 0
+    },
+    "ID": {
+        "Name": "Shop Keeper 2D Inventory",
+        "ID": 5,
+        "SOReference": {
+            "instanceID": 40286
+        }
+    },
+    "inventoryName": "Shop Keeper 2D",
+    "ItemInventorySize": 25,
+    "currentCurrency": 100,
+    "startingEquipment": [],
+    "startingItems": [
+        {
+            "instanceID": 40140
+        },
+        {
+            "instanceID": 40102
+        }
+    ],
+    "startingGold": 1000
+}

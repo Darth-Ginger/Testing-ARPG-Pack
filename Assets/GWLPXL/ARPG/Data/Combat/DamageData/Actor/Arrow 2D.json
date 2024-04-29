@@ -1,0 +1,41 @@
+{
+    "config": {
+        "instanceID": 39790
+    },
+    "id": {
+        "Name": "Arrow 2D",
+        "ID": 9,
+        "Instance": {
+            "instanceID": 39788
+        }
+    },
+    "DamageVar": {
+        "combatHandler": {
+            "instanceID": 39792
+        },
+        "descriptiveName": "Arrow",
+        "damageOptions": {
+            "physdmg": true,
+            "elemdg": true,
+            "sotmod": false
+        },
+        "damageMultipliers": {
+            "physicalMultipler": {
+                "minD": 1,
+                "maxD": 3,
+                "percentOfCasterAttack": 0.0
+            },
+            "elementMultipliers": []
+        },
+        "statusOverTimeOptions": {
+            "applySOTAtEnter": true,
+            "applySOTAtExit": false,
+            "additionalSOTs": [],
+            "damageRate": 1.0,
+            "friendlyFire": false
+        },
+        "statusOverTimeMultiplers": {
+            "elementalMultipliers": []
+        }
+    }
+}

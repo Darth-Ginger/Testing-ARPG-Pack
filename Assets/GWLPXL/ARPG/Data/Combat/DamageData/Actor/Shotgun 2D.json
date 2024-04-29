@@ -1,0 +1,41 @@
+{
+    "config": {
+        "instanceID": 40382
+    },
+    "id": {
+        "Name": "Shotgun",
+        "ID": 8,
+        "Instance": {
+            "instanceID": 40270
+        }
+    },
+    "DamageVar": {
+        "combatHandler": {
+            "instanceID": 39792
+        },
+        "descriptiveName": "Shotgun",
+        "damageOptions": {
+            "physdmg": true,
+            "elemdg": true,
+            "sotmod": false
+        },
+        "damageMultipliers": {
+            "physicalMultipler": {
+                "minD": 1,
+                "maxD": 3,
+                "percentOfCasterAttack": 0.0
+            },
+            "elementMultipliers": []
+        },
+        "statusOverTimeOptions": {
+            "applySOTAtEnter": true,
+            "applySOTAtExit": false,
+            "additionalSOTs": [],
+            "damageRate": 1.0,
+            "friendlyFire": false
+        },
+        "statusOverTimeMultiplers": {
+            "elementalMultipliers": []
+        }
+    }
+}

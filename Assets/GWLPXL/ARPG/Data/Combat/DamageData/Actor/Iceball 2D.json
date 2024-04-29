@@ -1,0 +1,60 @@
+{
+    "config": {
+        "instanceID": 40378
+    },
+    "id": {
+        "Name": "Iceball",
+        "ID": 6,
+        "Instance": {
+            "instanceID": 40266
+        }
+    },
+    "DamageVar": {
+        "combatHandler": {
+            "instanceID": 39792
+        },
+        "descriptiveName": "Iceball",
+        "damageOptions": {
+            "physdmg": false,
+            "elemdg": true,
+            "sotmod": true
+        },
+        "damageMultipliers": {
+            "physicalMultipler": {
+                "minD": 1,
+                "maxD": 3,
+                "percentOfCasterAttack": 0.0
+            },
+            "elementMultipliers": [
+                {
+                    "editorDescription": "Cold",
+                    "damageType": 2,
+                    "minD": 0,
+                    "maxD": 0,
+                    "percentOfCasterElement": 0.10000000149011612
+                }
+            ]
+        },
+        "statusOverTimeOptions": {
+            "applySOTAtEnter": true,
+            "applySOTAtExit": false,
+            "additionalSOTs": [
+                {
+                    "Type": 0,
+                    "ElementDamage": 2,
+                    "StatusEffects": [],
+                    "AmountPerTick": -1,
+                    "Duration": 5.0,
+                    "ClampStatusEffectToDuration": false,
+                    "TickRate": 1.0,
+                    "StackAmount": 5
+                }
+            ],
+            "damageRate": 1.0,
+            "friendlyFire": false
+        },
+        "statusOverTimeMultiplers": {
+            "elementalMultipliers": []
+        }
+    }
+}

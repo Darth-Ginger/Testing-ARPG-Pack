@@ -1,0 +1,25 @@
+{
+    "config": {
+        "instanceID": 39852
+    },
+    "id": {
+        "Name": "",
+        "ID": 3,
+        "Instance": {
+            "instanceID": 39844
+        }
+    },
+    "ProjectileVars": {
+        "descriptiveName": "Magic",
+        "description": "Magic ball shoots forward",
+        "speed": 15.0,
+        "disableOnTouch": true,
+        "friendlyFire": false,
+        "lifetime": 10.0,
+        "blockingLayers": {
+            "serializedVersion": "2",
+            "m_Bits": 0
+        },
+        "block": 1
+    }
+}

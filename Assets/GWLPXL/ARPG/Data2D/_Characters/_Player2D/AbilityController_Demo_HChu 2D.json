@@ -1,0 +1,31 @@
+{
+    "config": {
+        "instanceID": 40356
+    },
+    "id": {
+        "Name": "Hchu",
+        "ID": 3,
+        "AbilityController": {
+            "instanceID": 40244
+        }
+    },
+    "Data": {
+        "AutoName": true,
+        "AutoAssignUniqueID": false,
+        "Name": "Demo_HChu 2D",
+        "Description": "For the Demo Scene, 2D version",
+        "UniqueID": 3
+    },
+    "BasicAttacks": [
+        {
+            "instanceID": 40234
+        }
+    ],
+    "StartingAbilities": [
+        {
+            "instanceID": 40236
+        }
+    ],
+    "EquippedCap": 1,
+    "LearnedCap": 100
+}

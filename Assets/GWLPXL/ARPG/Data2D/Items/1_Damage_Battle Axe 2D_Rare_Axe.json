@@ -1,0 +1,66 @@
+{
+    "UIPattern": {
+        "instanceID": 0
+    },
+    "config": {
+        "instanceID": 40432
+    },
+    "itemID": {
+        "Name": "",
+        "ID": 7,
+        "Item": {
+            "instanceID": 40298
+        }
+    },
+    "autoName": true,
+    "rarity": {
+        "instanceID": 40424
+    },
+    "meshPrefab": {
+        "instanceID": 40144
+    },
+    "sprite": {
+        "instanceID": 40146
+    },
+    "purchaseCost": 10,
+    "sellCost": 5,
+    "classRestriction": 0,
+    "slots": [
+        35
+    ],
+    "traitTiers": [
+        {
+            "ILevelMulti": 1.0,
+            "MaxNumberOfTraitsPerTier": 4,
+            "PossibleTierDrops": {
+                "instanceID": 39896
+            }
+        }
+    ],
+    "stats": {
+        "baseName": "Axe",
+        "baseType": 1,
+        "baseStatMinValue": 1,
+        "baseStateILevelMulti": 0.5,
+        "nativeTraits": [],
+        "sockets": [
+            {
+                "SocketedThing": {
+                    "instanceID": 0
+                },
+                "SocketType": 100
+            },
+            {
+                "SocketedThing": {
+                    "instanceID": 0
+                },
+                "SocketType": 100
+            }
+        ]
+    },
+    "wearablePefab": {
+        "instanceID": 40148
+    },
+    "enchantable": true,
+    "weaponType": 2
+}

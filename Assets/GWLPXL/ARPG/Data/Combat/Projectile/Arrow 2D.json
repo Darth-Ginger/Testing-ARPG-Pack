@@ -1,0 +1,25 @@
+{
+    "config": {
+        "instanceID": 39854
+    },
+    "id": {
+        "Name": "Arrow 2D",
+        "ID": 4,
+        "Instance": {
+            "instanceID": 39846
+        }
+    },
+    "ProjectileVars": {
+        "descriptiveName": "Arrow",
+        "description": "Normal arrow. ",
+        "speed": 35.0,
+        "disableOnTouch": true,
+        "friendlyFire": false,
+        "lifetime": 10.0,
+        "blockingLayers": {
+            "serializedVersion": "2",
+            "m_Bits": 0
+        },
+        "block": 1
+    }
+}
